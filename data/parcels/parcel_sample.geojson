@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "TN-CHN-P0428",
+        "state": "Tamil Nadu",
+        "district": "Chennai",
+        "city": "Chennai",
+        "area_sqm": 4250.0,
+        "classification": "Urban Commercial / High-Density Residential",
+        "survey_number": "428/2A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [80.2488, 13.0598],
+            [80.2505, 13.0598],
+            [80.2505, 13.0610],
+            [80.2488, 13.0610],
+            [80.2488, 13.0598]
+          ]
+        ]
+      }
+    }
+  ]
+}

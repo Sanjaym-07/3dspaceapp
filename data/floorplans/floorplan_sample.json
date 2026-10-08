@@ -1,0 +1,42 @@
+{
+  "floor_id": "B01-F07",
+  "building_id": "B01",
+  "floor_number": 7,
+  "floor_code": "F07",
+  "elevation_min_m": 21.0,
+  "elevation_max_m": 24.2,
+  "height_m": 3.2,
+  "floor_type": "Residential",
+  "total_area_sqft": 4900.0,
+  "units": [
+    {
+      "unit_number": "U01",
+      "name": "Apartment 701 - North Wing",
+      "area_sqft": 1050.0,
+      "usage_type": "Residential",
+      "owner_name": "Priya N"
+    },
+    {
+      "unit_number": "U02",
+      "name": "Apartment 702 - East Wing",
+      "area_sqft": 1280.0,
+      "usage_type": "Residential",
+      "owner_name": "Karthik R",
+      "ulpin_3d": "IN-TN-CHN-P0428-B01-F07-U02"
+    },
+    {
+      "unit_number": "U03",
+      "name": "Apartment 703 - South Wing",
+      "area_sqft": 1280.0,
+      "usage_type": "Residential",
+      "owner_name": "Arun Kumar"
+    },
+    {
+      "unit_number": "U04",
+      "name": "Apartment 704 - West Wing",
+      "area_sqft": 1050.0,
+      "usage_type": "Residential",
+      "owner_name": "Meera S"
+    }
+  ]
+}

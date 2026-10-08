@@ -1,0 +1,19 @@
+{
+  "building_id": "B01",
+  "name": "Meridian Heights",
+  "parcel_id": "TN-CHN-P0428",
+  "total_floors": 12,
+  "basement_floors": 2,
+  "total_units": 48,
+  "height_m": 42.0,
+  "footprint_area_sqm": 1200.0,
+  "base_elevation_m": 0.0,
+  "structure_type": "RCC Framed High-Rise",
+  "completion_year": 2024,
+  "coordinates": {
+    "x": 0.0,
+    "z": 0.0,
+    "width": 24.0,
+    "depth": 20.0
+  }
+}
